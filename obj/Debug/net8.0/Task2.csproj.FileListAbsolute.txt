@@ -1,0 +1,14 @@
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\bin\Debug\net8.0\Task2.exe
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\bin\Debug\net8.0\Task2.deps.json
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\bin\Debug\net8.0\Task2.dll
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\bin\Debug\net8.0\Task2.pdb
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.dll
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\refint\Task2.dll
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.pdb
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+F:\!GB\05.Знакомство с языками программирования (семинары)\Task\Task2\obj\Debug\net8.0\ref\Task2.dll
